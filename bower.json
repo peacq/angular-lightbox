@@ -1,0 +1,18 @@
+{
+  "name": "angular-lightbox",
+  "main": "angular-lightbox.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/peacq/angular-lightbox",
+  "authors": [
+    "peacq <piske91@gmail.com>"
+  ],
+  "description": "Simple lightbox plugin, no css.",
+  "keywords": [
+    "lightbox"
+  ],
+  "license": "MIT",
+  "ignore": [ ],
+  "dependencies": {
+    "angular": "1.3.13"
+  }
+}
